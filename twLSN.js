@@ -2,7 +2,8 @@ var twLSN = [
 'tokowhatsapp.blogspot.com',
 'toko-whatsapp.blogspot.com',
 'jasa-design.web.id',
-'www.jasa-design.web.id',
+  'https://storetechhackerxyz.blogspot.com/',
+  'www.jasa-design.web.id',
 ];
 
-var redirectUrl = 'https://storetechhackerxyz.blogspot.com/'; //chane
+var redirectUrl = 'http://bit.ly/toko-whatsapp'; //chane
