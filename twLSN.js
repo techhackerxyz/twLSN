@@ -2,7 +2,7 @@ var twLSN = [
 'tokowhatsapp.blogspot.com',
 'toko-whatsapp.blogspot.com',
 'jasa-design.web.id',
-  'https://storetechhackerxyz.blogspot.com/',
+  'storetechhackerxyz.blogspot.com',
   'www.jasa-design.web.id',
 ];
 
