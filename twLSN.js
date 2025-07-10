@@ -5,4 +5,4 @@ var twLSN = [
 'www.jasa-design.web.id',
 ];
 
-var redirectUrl = 'https://storetechhackerxyz.blogspot.com/';
+var redirectUrl = 'https://storetechhackerxyz.blogspot.com/'; //chane
